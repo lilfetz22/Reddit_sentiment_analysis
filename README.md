@@ -6,4 +6,4 @@ Process: Used a combination of both python and R to find over 1,000,000+ posts b
 Result: Successfully delivered client over 1,000,000+ posts, the calculated sentiment scores, and the linear regression analysis.
 
 
-There are 2 files that were too large to be included here on GitHub. The comments file created for GME and PLTR. These can both be generated through the jupyter notebook.
+There are 2 files that were too large to be included here on GitHub. The comments file created for GME and PLTR. These can both be generated through the jupyter notebook (reddit_scraping.ipynb).
